@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32cam:CPUFreq=240,FlashFreq=80,FlashMode=qio,PartitionScheme=huge_app,DebugLevel=none,EraseFlash=none",
+    "name": "AI Thinker ESP32-CAM",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
